@@ -30,8 +30,26 @@ randomNumber = Math.ceil(randomNumber);
 randomNumber = Math.floor(randomNumber);
 console.log(randomNumber);
 
+// Bonus
+// 6
 
 
+// 7a
+let reindeers = "Reindeers are better than people.";
+
+// 7b
+reindeers = ("Reindeers_are_better_than_people.");
+console.log(reindeers);
+
+// 8
+console.log(Math.sqrt(2));
+
+// 9
+let newrandomNumber = Math.random();
+newrandomNumber *= 23;
+newrandomNumber = Math.ceil(newrandomNumber);
+newrandomNumber = Math.floor(newrandomNumber);
+console.log(newrandomNumber);
 
 
 
